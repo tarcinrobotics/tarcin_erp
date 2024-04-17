@@ -47,7 +47,7 @@
         'data/footer_template.xml',
     ],
     'images': [
-        'static/description/web_openeducat_banner.jpg',
+        'static/description/web_tarcin_banner.jpg',
     ],
     'depends': [
         'website',

@@ -96,13 +96,13 @@
     'post_init_hook': '_openeducat_post_init',
     'assets': {
         'website.assets_frontend': [
-            '/openeducat_core/static/src/scss/main.scss',
+            '/tarcin_core/static/src/scss/main.scss',
         ],
         'web.assets_backend': [
-            '/openeducat_core/static/src/scss/style.scss',
-            '/openeducat_core/static/src/js/g2_review.js',
-            '/openeducat_core/static/src/xml/review.xml',
-            '/openeducat_core/static/src/xml/web_client.xml',
+            '/tarcin_core/static/src/scss/style.scss',
+            '/tarcin_core/static/src/js/g2_review.js',
+            '/tarcin_core/static/src/xml/review.xml',
+            '/tarcin_core/static/src/xml/web_client.xml',
         ],
     },
 }

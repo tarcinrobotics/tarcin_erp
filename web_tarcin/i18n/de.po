@@ -12,13 +12,13 @@ msgstr ""
 "Content-Transfer-Encoding:"
 "Plural-Forms:"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.brand_promotion_inherit
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
 msgid "- An awesome"
 msgstr "- Ein einzigartiger"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-calendar-o me-2 \"/>\n"
 "                                                        June, 30th 2018"
@@ -26,8 +26,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2 \"/>\n"
 " 30. Juni 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-calendar-o me-2 \"/>\n"
 "                                    June, 30th 2018"
@@ -35,8 +35,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2 \"/>\n"
 " 30. Juni 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                                        Feb, 24th 2018"
@@ -44,8 +44,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 24. Februar 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                                        July, 14th 2018"
@@ -53,8 +53,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 14. Juli 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                                    Aug, 24th 2018"
@@ -62,8 +62,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 24. August 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                    Feb, 24th 2018"
@@ -71,8 +71,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 24. Februar 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                    July, 14th 2018"
@@ -80,8 +80,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 14. Juli 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 "                                Aug, 24th 2018"
@@ -89,8 +89,8 @@ msgstr ""
 "<i class=\"fa fa-calendar-o me-2\"/>\n"
 " 24. August 2018"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                                    <span class=\"icon_text text-o-color-5\">Duration : 1yr</span>"
@@ -98,8 +98,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 1 Jahr</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                                    <span class=\"icon_text text-o-color-5\">Duration : 2yrs</span>"
@@ -107,8 +107,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 2 Jahre</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                                    <span class=\"icon_text text-o-color-5\">Duration : 4yrs</span>"
@@ -116,8 +116,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 4 Jahre</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                <span class=\"icon_text text-o-color-5\">Duration : 1yr</span>"
@@ -125,8 +125,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 1 Jahr</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                <span class=\"icon_text text-o-color-5\">Duration : 2yrs</span>"
@@ -134,8 +134,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 2 Jahre</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 "                                <span class=\"icon_text text-o-color-5\">Duration : 4yrs</span>"
@@ -143,8 +143,8 @@ msgstr ""
 "<i class=\"fa fa-clock-o text-primary icon_style\"/>\n"
 " <span class=\"icon_text text-o-color-5\">Dauer: 4 Jahre</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                                                10"
@@ -152,8 +152,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 10"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                                                12"
@@ -161,8 +161,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 12"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                                                15"
@@ -170,8 +170,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 15"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                                                20"
@@ -179,8 +179,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 20"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                            10"
@@ -188,8 +188,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 10"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                            12"
@@ -197,8 +197,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 12"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                            15"
@@ -206,8 +206,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 15"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 "                                            20"
@@ -215,8 +215,8 @@ msgstr ""
 "<i class=\"fa fa-comments-o text-primary\"/>\n"
 " 20"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                                                Helen R. Penny"
@@ -224,8 +224,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Helen R. Penny"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                                                May C. Dyer"
@@ -233,8 +233,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " May C. Dyer"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                                                Peggy C. Schuler"
@@ -242,8 +242,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Peggy C. Schuler"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                                                Viola C. Anderson"
@@ -251,8 +251,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Viola C. Anderson"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                            Helen R. Penny"
@@ -260,8 +260,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Helen R. Penny"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                            May C. Dyer"
@@ -269,8 +269,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " May C. Dyer"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                            Peggy C. Schuler"
@@ -278,8 +278,8 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Peggy C. Schuler"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 "                                            Viola C. Anderson"
@@ -287,14 +287,14 @@ msgstr ""
 "<i class=\"fa fa-user text-primary\"/>\n"
 " Viola C. Anderson"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "<span class=\"blog-title\">Education</span>"
 msgstr "<span class=\"blog-title\">Bildung</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<span class=\"event-date\">12th</span>\n"
 "                                                        <span>Feb</span>"
@@ -302,8 +302,8 @@ msgstr ""
 "<span class=\"event-date\">12.</span>\n"
 " <span>Februar</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
 msgid ""
 "<span class=\"event-date\">12th</span>\n"
 "                                    <span>Feb</span>"
@@ -311,8 +311,8 @@ msgstr ""
 "<span class=\"event-date\">12.</span>\n"
 " <span>Februar</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<span class=\"event-date\">1st</span>\n"
 "                                                        <span>Jan</span>"
@@ -320,8 +320,8 @@ msgstr ""
 "<span class=\"event-date\">1.</span>\n"
 " <span>Jan</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
 msgid ""
 "<span class=\"event-date\">1st</span>\n"
 "                                    <span>Jan</span>"
@@ -329,8 +329,8 @@ msgstr ""
 "<span class=\"event-date\">1.</span>\n"
 " <span>Jan</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "<span class=\"event-date\">2nd</span>\n"
 "                                                        <span>Dec</span>"
@@ -338,8 +338,8 @@ msgstr ""
 "<span class=\"event-date\">2.</span>\n"
 " <span>Dez</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
 msgid ""
 "<span class=\"event-date\">2nd</span>\n"
 "                                    <span>Dec</span>"
@@ -347,99 +347,99 @@ msgstr ""
 "<span class=\"event-date\">2.</span>\n"
 " <span>Dez</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "<span class=\"heading\">Addmission Going On</span>"
 msgstr "<span class=\"heading\">Zulassung läuft</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "<span class=\"heading\">Post Graduation Course</span>"
 msgstr "<span class=\"heading\">Postgraduiertenkurs</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span style=\"font-size:1.5em;\">160</span>"
 msgstr "<span style=\"font-size:1.5em;\">160</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span style=\"font-size:1.5em;\">200</span>"
 msgstr "<span style=\"font-size:1.5em;\">200</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span style=\"font-size:1.5em;\">670</span>"
 msgstr "<span style=\"font-size:1.5em;\">670</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span style=\"font-size:1.5em;\">890</span>"
 msgstr "<span style=\"font-size:1.5em;\">890</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>10:30 am</span>"
 msgstr "<span>10:30 Uhr</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>11:30 am</span>"
 msgstr "<span>11:30 Uhr</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>12:00 pm</span>"
 msgstr "<span>12:00 Uhr</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>Birmingham ,Alabama</span>"
 msgstr "<span>Birmingham, Alabama</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "<span>Copyright &amp;copy;</span>"
 msgstr "<span>Urheberrecht und Kopie</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>San Francisco ,California</span>"
 msgstr "<span>San Francisco, Kalifornien</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "<span>Sitka ,Alaska</span>"
 msgstr "<span>Sitka, Alaska</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "A variation of the ordinary."
 msgstr "Eine Variation des Gewöhnlichen."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.about-us
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.about-us
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "ABOUT US"
 msgstr "ÜBER UNS"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "APPLY\n"
 "                                                        NOW"
@@ -447,8 +447,8 @@ msgstr ""
 "APPLY\n"
 "                                                        NOW"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "APPLY\n"
 "                                    NOW"
@@ -456,20 +456,20 @@ msgstr ""
 "BEWERBEN\n"
 "JETZT"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "AWARD WINNING"
 msgstr "AUSGEZEICHNET"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "AYESHA HOQUE"
 msgstr "AYESHA HOQUE"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "About\n"
 "                                                    <span class=\"font-weight-normal\">US</span>"
@@ -477,8 +477,8 @@ msgstr ""
 "Über\n"
 " <span class=\"font-weight-normal\">US</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.about-us
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.about-us
 msgid ""
 "About\n"
 "                                <span class=\"font-weight-normal\">US</span>"
@@ -486,30 +486,30 @@ msgstr ""
 "Über\n"
 " <span class=\"font-weight-normal\">US</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "About Us"
 msgstr "Über uns"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "Academic Conference Maui."
 msgstr "Akademische Konferenz Maui."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Admission"
 msgstr "Zulassung"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "Apparel Manufacturing"
 msgstr "Bekleidungsherstellung"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Best\n"
 "                                                    <span class=\"font-weight-normal\">Teacher</span>"
@@ -517,8 +517,8 @@ msgstr ""
 "Bester\n"
 " <span class=\"font-weight-normal\">Lehrer</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid ""
 "Best\n"
 "                                <span class=\"font-weight-normal\">Teacher</span>"
@@ -526,151 +526,151 @@ msgstr ""
 "Bester\n"
 " <span class=\"font-weight-normal\">Lehrer</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Brand Assets"
 msgstr "Markenwerte"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "CONTACT US"
 msgstr "KONTAKTIERE UNS"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "COURSES"
 msgstr "KURSE"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Company name"
 msgstr "Name der Firma"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "Computer Engineering"
 msgstr "Technische Informatik"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Contact Us"
 msgstr "Kontaktiere uns"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Courses"
 msgstr "Kurse"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Dennis Fries"
 msgstr "Dennis Fries"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "DiplomaCourses"
 msgstr "Diplomkurse"
 
-#. module: web_openeducat
+#. module: web_tarcin
 #. odoo-javascript
-#: code:addons/web_openeducat/static/src/xml/base_inherit.xml:0
+#: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
 msgid "Documentation"
 msgstr "Dokumentation"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "EXTRA LINKS"
 msgstr "EXTRA LINKS"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Emi Matsuura"
 msgstr "Emi Matsuura"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "FACULTIES"
 msgstr "FAKULTÄTEN"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Fawad Khan"
 msgstr "Fawad Khan"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "GALLARY"
 msgstr "GALERIE"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "GRADUATE"
 msgstr "ABSOLVENT"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "Graphic Design &amp; Multimedia"
 msgstr "Grafikdesign &amp; Multimedia"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "Health &amp; Safety Awareness."
 msgstr "Gesundheit &amp; Sicherheitsbewusstsein."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Home"
 msgstr "Heim"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "In Publicing and graphic."
 msgstr "In Veröffentlichung und Grafik."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Kelly Staats"
 msgstr "Kelly Staats"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "Learn english in ease."
 msgstr "Lernen Sie Englisch mit Leichtigkeit."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Lecturer"
 msgstr "Dozent"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "Library Management"
 msgstr "Bibliotheksverwaltung"
 
-#. module: web_openeducat
+#. module: web_tarcin
 #. odoo-javascript
-#: code:addons/web_openeducat/static/src/xml/base_inherit.xml:0
+#: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
 msgid "Log out"
 msgstr "Ausloggen"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Lorem ipsum dolor sit amet,\n"
 "                                                            consectetur adipisicing elit,\n"
@@ -683,8 +683,8 @@ msgstr ""
 " aber er wird gleichzeitig mit Wehen und Schmerzen passieren\n"
 " einige großartige Dinge. Um ins kleinste Detail zu kommen: Was ist unsere Übung?"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid ""
 "Lorem ipsum dolor sit amet,\n"
 "                                        consectetur adipisicing elit,\n"
@@ -697,8 +697,8 @@ msgstr ""
 " aber er wird gleichzeitig mit Wehen und Schmerzen passieren\n"
 " einige großartige Dinge. Um ins kleinste Detail zu kommen: Was ist unsere Übung?"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Lorem ipsum dolor sit amet, conse ctetur\n"
 "                                                    adipi sicing elit, sed do eiusm od tempor incidi dunt ut labore et\n"
@@ -714,8 +714,8 @@ msgstr ""
 "diejenigen, die ihre Pflichten aufgeben. Aber damit Sie sehen, woher dieser "
 "ganze Irrtum kommt"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
 msgid ""
 "Lorem ipsum dolor sit amet, conse ctetur\n"
 "                                adipi sicing elit, sed do eiusm od tempor incidi dunt ut labore et\n"
@@ -731,8 +731,8 @@ msgstr ""
 "diejenigen, die ihre Pflichten aufgeben, und die Seele wird weicher, das "
 "heißt, sie arbeitet. Aber damit Sie sehen, woher dieser ganze Irrtum kommt"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit,\n"
 "                                                        sed do eiusm od tempor incidi dunt ut labore et dolore."
@@ -741,8 +741,8 @@ msgstr ""
 "des Fettes sein, aber ich werde es gleichzeitig mit den Wehen und den "
 "Schmerzen abschneiden."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid ""
 "Lorem ipsum dolor sit amet, conse ctetur adipi sicing elit,\n"
 "                                    sed do eiusm od tempor incidi dunt ut labore et dolore."
@@ -751,8 +751,8 @@ msgstr ""
 "des Fettes sein, aber ich werde es gleichzeitig mit den Wehen und den "
 "Schmerzen abschneiden."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Make\n"
 "                                                                Your Own World"
@@ -760,8 +760,8 @@ msgstr ""
 "Erschaffe\n"
 " deine eigene Welt"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid ""
 "Make\n"
 "                                            Your Own World"
@@ -769,30 +769,30 @@ msgstr ""
 "Erschaffe\n"
 " deine eigene Welt"
 
-#. module: web_openeducat
+#. module: web_tarcin
 #. odoo-javascript
-#: code:addons/web_openeducat/static/src/xml/base_inherit.xml:0
+#: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
 msgid "My Odoo.com account"
 msgstr "Mein Odoo.com-Konto"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.brand_promotion_inherit
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
 msgid "Open Source ERP for Educational Institutes"
 msgstr "Open-Source-ERP für Bildungseinrichtungen"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.brand_promotion_inherit
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
 msgid "Openeducat"
 msgstr "Openeducat"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Other Programs"
 msgstr "Andere Programme"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Our\n"
 "                                                    <span class=\"font-weight-bold\">Courses</span>"
@@ -800,8 +800,8 @@ msgstr ""
 "Unsere\n"
 " <span class=\"font-weight-bold\">Kurse</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Our\n"
 "                                                    <span class=\"font-weight-normal\">Achievement</span>"
@@ -809,8 +809,8 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Erfolg</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Our\n"
 "                                                    <span class=\"font-weight-normal\">Event</span>"
@@ -818,8 +818,8 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Event</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Our\n"
 "                                                    <span class=\"font-weight-normal\">Newsfeed</span>"
@@ -827,8 +827,8 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Newsfeed</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "Our\n"
 "                                <span class=\"font-weight-bold\">Courses</span>"
@@ -836,8 +836,8 @@ msgstr ""
 "Unsere\n"
 " <span class=\"font-weight-bold\">Kurse</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
 msgid ""
 "Our\n"
 "                                <span class=\"font-weight-normal\">Achievement</span>"
@@ -845,8 +845,8 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Erfolg</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
 msgid ""
 "Our\n"
 "                                <span class=\"font-weight-normal\">Event</span>"
@@ -854,8 +854,8 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Event</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid ""
 "Our\n"
 "                                <span class=\"font-weight-normal\">Newsfeed</span>"
@@ -863,41 +863,41 @@ msgstr ""
 "Unser\n"
 " <span class=\"font-weight-normal\">Newsfeed</span>"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "PG Programs"
 msgstr "PG-Programme"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "Placement Facility"
 msgstr "Vermittlungseinrichtung"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.brand_promotion_inherit
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
 msgid "Powered by"
 msgstr "Angetrieben von"
 
-#. module: web_openeducat
+#. module: web_tarcin
 #. odoo-javascript
-#: code:addons/web_openeducat/static/src/xml/base_inherit.xml:0
+#: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
 msgid "Preferences"
 msgstr "Präferenzen"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Privacy &amp; Policy"
 msgstr "Datenschutz &amp; Politik"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Privacy Policy"
 msgstr "Datenschutzrichtlinie"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "Pvolupttem accusantium doloremque laudantium, totam\n"
 "                                                        erspiciatis unde omnis iste\n"
@@ -906,8 +906,8 @@ msgstr ""
 "Diejenigen, die Leidenschaft und Schmerz anklagen und loben, sehen das "
 "Ganze, aus dem dieser ganze Irrtum entsteht."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
 msgid ""
 "Pvolupttem accusantium doloremque laudantium, totam\n"
 "                                    erspiciatis unde omnis iste\n"
@@ -916,82 +916,82 @@ msgstr ""
 "Diejenigen, die Leidenschaft und Schmerz anklagen und loben, sehen das "
 "Ganze, aus dem dieser ganze Irrtum entsteht."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "QUICK LINKS"
 msgstr "SCHNELLE LINKS"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "STUDENTS"
 msgstr "STUDENTEN"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "Scholarship Facility"
 msgstr "Stipendieneinrichtung"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Short Courses"
 msgstr "Kurze Kurse"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "Social Sciences &amp; Education."
 msgstr "Sozialwissenschaften &amp; Ausbildung."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.slider
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.slider
 msgid "Student Management"
 msgstr "Studentenmanagement"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "Students Of AMMT Department"
 msgstr "Studenten der AMMT-Abteilung"
 
-#. module: web_openeducat
+#. module: web_tarcin
 #. odoo-javascript
-#: code:addons/web_openeducat/static/src/xml/base_inherit.xml:0
+#: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
 msgid "Support"
 msgstr "Unterstützung"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Tempor incididunt magna aliqua."
 msgstr "Damals geschahen einige großartige Dinge."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Terms &amp; Conditions"
 msgstr "Bedingungen &amp; Bedingungen"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "Terms &amp; Conditions of Use"
 msgstr "Bedingungen &amp; Nutzungsbedingungen"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "Testing is a great thing."
 msgstr "Testen ist eine tolle Sache."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid "UG Programs"
 msgstr "UND-Programme"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.footer
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.footer
 msgid ""
 "Ugiat nulla pariatur. Edeserunt mollit anim id est laborum. Sed ut\n"
 "                                perspiciatis unde omnis iste natu"
@@ -999,26 +999,26 @@ msgstr ""
 "Lass es keine Zucht geben. Sie haben gegessen und die Seele weich gemacht, "
 "das heißt, die Snacks. Aber damit ihr seht, woher das alles kam"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid "VIEW MORE"
 msgstr "MEHR SEHEN"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "Vern G. Shor"
 msgstr "Vern G. Shor"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
 msgid "doloremque laudan tium, totam ersps uns iste natus"
 msgstr "Ich lobe ihn für seinen Schmerz, die ganze Welt, bis er geboren wurde"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "eiusmod tempor incididunt ut labore et dolore magna\n"
 "                                                    aliqua. Ut enim ad minim ven iam, quis nostrud exer citation ullamco\n"
@@ -1030,8 +1030,8 @@ msgstr ""
 "die Mühe machen, irgendetwas zu zitieren, außer damit ihr erkennt, woher all"
 " dieser Irrtum aus Vergnügen kommt."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.about-us
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.about-us
 msgid ""
 "eiusmod tempor incididunt ut labore et dolore magna\n"
 "                                aliqua. Ut enim ad minim ven iam, quis nostrud exer citation ullamco\n"
@@ -1043,32 +1043,32 @@ msgstr ""
 "die Mühe machen, irgendetwas zu zitieren, außer damit ihr erkennt, woher all"
 " dieser Irrtum aus Vergnügen kommt."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "event1"
 msgstr "Veranstaltung 1"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "event2"
 msgstr "Ereignis2"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "event3"
 msgstr "Ereignis3"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid "img1"
 msgstr "Bild1"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor\n"
 "                                incid."
@@ -1076,15 +1076,15 @@ msgstr ""
 "einige tolle Dinge Denn ich werde das Geringste erreichen, es sei denn, es "
 "geschieht irgendwann."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid "magna aliqua. Ut enim ad minim veniam, nisi ut aliquiptempor incid."
 msgstr ""
 "einige tolle Dinge Denn ich werde zum Mindesten kommen, es sei denn, es "
 "geschieht irgendwann."
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                                    <br/>\n"
@@ -1095,8 +1095,8 @@ msgstr ""
 " <br/>\n"
 ", der jede Art von Arbeit ausüben kann, außer als jemand"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                                    <br/>\n"
@@ -1106,8 +1106,8 @@ msgstr ""
 "verbunden. Denn um es bis ins kleinste Detail zu sagen: Niemand kann "
 "irgendeine Arbeit ausüben, außer als jemand"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.home_page
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.home_page
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                                    veniam,\n"
@@ -1117,8 +1117,8 @@ msgstr ""
 "verbunden. Denn um es ins kleinste Detail zu bringen: Keiner von uns ist in "
 "irgendeiner Art von Arbeit ausgebildet, außer als eine Art Mensch"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.ourcourse
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.ourcourse
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                <br/>\n"
@@ -1129,11 +1129,11 @@ msgstr ""
 " <br/>\n"
 ", der jede Art von Arbeit ausüben kann, außer als jemand"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.achievement
-#: model_terms:ir.ui.view,arch_db:web_openeducat.event
-#: model_terms:ir.ui.view,arch_db:web_openeducat.newsfeed
-#: model_terms:ir.ui.view,arch_db:web_openeducat.teacher
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.achievement
+#: model_terms:ir.ui.view,arch_db:web_tarcin.event
+#: model_terms:ir.ui.view,arch_db:web_tarcin.newsfeed
+#: model_terms:ir.ui.view,arch_db:web_tarcin.teacher
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                <br/>\n"
@@ -1143,8 +1143,8 @@ msgstr ""
 "verbunden. Denn um es bis ins kleinste Detail zu sagen: Niemand kann "
 "irgendeine Arbeit ausüben, außer als jemand"
 
-#. module: web_openeducat
-#: model_terms:ir.ui.view,arch_db:web_openeducat.about-us
+#. module: web_tarcin
+#: model_terms:ir.ui.view,arch_db:web_tarcin.about-us
 msgid ""
 "tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim\n"
 "                                veniam,\n"
