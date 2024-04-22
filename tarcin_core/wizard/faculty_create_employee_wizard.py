@@ -34,6 +34,6 @@ class WizardOpFacultyEmployee(models.TransientModel):
             faculty = self.env['op.faculty'].browse(active_id)
             faculty.create_employee()
             if record.user_boolean and not faculty.user_id:
-                user_group = self.env.ref('openeducat_core.group_op_faculty')
+                user_group = self.env.ref('tarcin_core.group_op_faculty')
                 self.env['res.users'].create_user(faculty, user_group)
                 faculty.emp_id.user_id = faculty.user_id

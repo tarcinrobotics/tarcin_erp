@@ -74,7 +74,7 @@ class OpParent(models.Model):
             return super(OpParent, self).unlink()
 
     def create_parent_user(self):
-        template = self.env.ref('openeducat_parent.parent_template_user')
+        template = self.env.ref('tarcin_parent.parent_template_user')
         users_res = self.env['res.users']
         for record in self:
             if not record.name.email:                

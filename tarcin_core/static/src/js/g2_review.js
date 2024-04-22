@@ -14,7 +14,7 @@ export class G2ReviewDialog extends Component {
         this.title = 'G2 Review'
     }
     onClickG2Review() {
-        window.open('https://www.openeducat.org/g2feedback', '_blank');
+        window.open('https://tarcin.in', '_blank');
         this.props.close();
         cookie.set(`g2_review_${session.db}`, true, this.nbDays * 24 * 60 * 60, 'required');
     }

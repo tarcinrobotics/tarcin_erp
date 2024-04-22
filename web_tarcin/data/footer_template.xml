@@ -209,13 +209,13 @@
             <div class="pull-right mt-1 mt-md-0 mt-lg-0" t-ignore="true" t-if="not editable">
                 Powered by
                 <a target="_blank"
-                   class="" href="https://www.openeducat.org/">
-                    <img alt="Openeducat"
+                   class="" href="https://tarcin.in/">
+                    <img alt="Tarcin"
                          src="/web_tarcin/static/src/img/footer-logo.png"
                          style="width: 70px;" class="ms-1"/>
                 </a>
                 - An awesome
-                <a target="_blank" href="https://www.openeducat.org/" class="text-white">Open Source ERP for Educational Institutes
+                <a target="_blank" href="https://tarcin.in/" class="text-white"> ERP for Educational Institutes
                 </a>
 
 
